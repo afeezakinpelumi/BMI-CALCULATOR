@@ -1,6 +1,3 @@
-# BMI-CALCULATOR
-A Python-based BMI calculator that computes Body Mass Index from user input and classifies results using standard health categories, with input validation and clean function-based design.
-
 # 🧮 BMI Calculator (Python)
 
 A simple Python application that calculates **Body Mass Index (BMI)** based on user input and classifies it into standard health categories.
